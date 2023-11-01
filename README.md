@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jabalka
-- 👀 I’m interested in Programming, Designing
+- 👀 I’m interested in Programming, Designing etc.
 - 🌱 I’m currently learning Python, JavaScript
 - 💞️ I’m looking to collaborate on applications
-- 📫 How to reach me:
+- 📫 How to reach me: jabalkada@gmail.com
 
 <!---
 jabalka/jabalka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
