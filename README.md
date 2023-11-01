@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jabalka
 - 👀 I’m interested in Programming, Designing etc.
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 Coding in Python, JavaScript
 - 💞️ I’m looking to collaborate on applications
 - 📫 How to reach me: jabalkada@gmail.com
 
